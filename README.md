@@ -11,3 +11,15 @@ User Authentication: Existing users can log in to their accounts securely.
 Book Management: Users can create, update, share, and archive their books.
 Book Borrowing: Implements necessary checks to determine if a book is borrowable.
 Book Returning: Users can return borrowed books.
+
+
+#Technologies Used :
+
+#Backend (book-network)
+
+Spring Boot 3
+Spring Security 6
+JWT Token Authentication
+Spring Data JPA
+JSR-303 and Spring Validation
+OpenAPI and Swagger UI Documentation
